@@ -50,14 +50,3 @@ Collab Code was managed as an Atlassian (Jira) project. The project board was ut
 
 2. Authentication - React's state is lost on page refresh, including user authentication state. This created an issue when the app-level context was cleared because the context is used to list interview data. Cookies and local storage were thereby utilized to maintain applicable state after triggering a page refresh. Issue was resolved by Brayan Torres.
 
-## Developers' Comments ##
-
-"You miss 100% of the shots you don't take -- Wayne Gretzky", said Brayan Torres when asked about the project's development in its final phase. He also noted that Hopper prefers the term "Scrum Lord" to scrum leader.
-
-"I'd say working in this Agile methodology will... most often time blend together. We just have to find a way to come back to it." Matthew Hopper's inspirational comments about heading the final stage of the project as "scum" leader.
-
-When asked about the Blue Ocean project as a whole, Gordon noted that the project was "equal parts interesting and frustrating. For every wall I hit... I learned big for every small step. Big learn."
-
-"I'm so sick and tired of this project," Nathanael Blocher's frustration at the end of Blue Ocean.
-
-When asked about his feelings involving the Blue Ocean project, legendary software developer Bao Tran said the project was "beneficially challenging. Having to redesign (the) initial project helped team collaboration."
